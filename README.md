@@ -1,4 +1,7 @@
-# test coverage for  [react-modal (v1.7.6)](https://github.com/reactjs/react-modal)  [![npm package](https://img.shields.io/npm/v/npmtest-react-modal.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-modal) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-modal.svg)](https://travis-ci.org/npmtest/node-npmtest-react-modal)
+# npmtest-react-modal
+
+#### basic test coverage for  [react-modal (v1.7.7)](https://github.com/reactjs/react-modal)  [![npm package](https://img.shields.io/npm/v/npmtest-react-modal.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-modal) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-modal.svg)](https://travis-ci.org/npmtest/node-npmtest-react-modal)
+
 #### Accessible modal dialog component for React.JS
 
 [![NPM](https://nodei.co/npm/react-modal.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/react-modal)
@@ -78,10 +81,10 @@
         "example": "examples"
     },
     "dist": {
-        "shasum": "ee719e480b0e0d959c2e249bcb7acc204950c755",
-        "tarball": "https://registry.npmjs.org/react-modal/-/react-modal-1.7.6.tgz"
+        "shasum": "70205f51c58708c487aff681ba3fed7946e391d9",
+        "tarball": "https://registry.npmjs.org/react-modal/-/react-modal-1.7.7.tgz"
     },
-    "gitHead": "708a257c0d8fc71eda0afceb661000924d2a6590",
+    "gitHead": "cb799d3e4a9cacd68df4baabadb85e39023cc51b",
     "homepage": "https://github.com/reactjs/react-modal",
     "keywords": [
         "react",
@@ -122,7 +125,7 @@
         "modal",
         "dialog"
     ],
-    "version": "1.7.6"
+    "version": "1.7.7"
 }
 ```
 
