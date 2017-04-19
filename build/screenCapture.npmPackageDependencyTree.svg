@@ -6,7 +6,7 @@
 <tspan x="10" y="58">node_modules</tspan>
 <tspan x="10" y="74">├── UNMET PEER DEPENDENCY react@^0.14.0 || ^15.0.0</tspan>
 <tspan x="10" y="90">├── UNMET PEER DEPENDENCY react-dom@^0.14.0 || ^15.0.0</tspan>
-<tspan x="10" y="106">└─┬ react-modal@1.7.6 </tspan>
+<tspan x="10" y="106">└─┬ react-modal@1.7.7 </tspan>
 <tspan x="10" y="122">  ├─┬ create-react-class@15.5.2 </tspan>
 <tspan x="10" y="138">  │ ├─┬ fbjs@0.8.12 </tspan>
 <tspan x="10" y="154">  │ │ ├── core-js@1.2.7 </tspan>
